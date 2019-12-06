@@ -11,6 +11,7 @@ body{
     background-color: #031625;
 }
 .item{
+    cursor: pointer;
     transform: translate3d(0,0,0);
     position: relative;
     width: 25%;
